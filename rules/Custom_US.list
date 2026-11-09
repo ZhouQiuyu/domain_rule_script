@@ -1,0 +1,23 @@
+# ========================================================
+# 个人未分类与特定代理规则 (Custom & US Proxy)
+# 策略组建议: 美国节点
+# 维护仓库: https://github.com/ZhouQiuyu/domain_rule_script
+# ========================================================
+
+# 常用设计与开发平台
+DOMAIN-SUFFIX,figma.com
+
+# 游戏与娱乐平台
+DOMAIN-SUFFIX,rockstargames.com
+
+# 支付与虚拟卡服务
+DOMAIN-SUFFIX,spacexcard.com
+DOMAIN-SUFFIX,vmcardio.com
+
+# 订阅与代理网络服务
+DOMAIN-SUFFIX,crush91.cc
+DOMAIN-SUFFIX,shu26.cfd
+
+# 其他未分类站点
+DOMAIN-SUFFIX,tyasai.com
+DOMAIN-SUFFIX,nubebelle.com

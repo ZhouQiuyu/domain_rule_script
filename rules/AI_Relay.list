@@ -1,0 +1,44 @@
+# ========================================================
+# AI 中转站与聚合分发网关 (AI Relays & Gateways)
+# 策略组建议: AI节点
+# 维护仓库: https://github.com/ZhouQiuyu/domain_rule_script
+# ========================================================
+
+# 自建平台 (CortexLane & Sub2API)
+DOMAIN-SUFFIX,cortexlane.cloud
+
+# 进货与上游 AI 中转站 (Upstream AI Relays)
+DOMAIN-SUFFIX,ai.1982video.cn
+DOMAIN-SUFFIX,ai.ttapy.com
+DOMAIN-SUFFIX,aihub.dog
+DOMAIN-SUFFIX,aihub.top
+DOMAIN-SUFFIX,anyrouter.top
+DOMAIN-SUFFIX,cabo.lol
+DOMAIN-SUFFIX,chaozhiyuanai.com
+DOMAIN-SUFFIX,chunfengzui.top
+DOMAIN-SUFFIX,dragon3api.com
+DOMAIN-SUFFIX,feilunhai.vip
+DOMAIN-SUFFIX,foxrouter.org
+DOMAIN-SUFFIX,fuckoai.trade
+DOMAIN-SUFFIX,hziai.cc
+DOMAIN-SUFFIX,hzapi.vip
+DOMAIN-SUFFIX,jbbtoken.pages.dev
+DOMAIN-SUFFIX,laogou.org
+DOMAIN-SUFFIX,linlong.tech
+DOMAIN-SUFFIX,megac.vip
+DOMAIN-SUFFIX,modelgate.top
+DOMAIN-SUFFIX,mysandbox.vip
+DOMAIN-SUFFIX,nbapi.cc
+DOMAIN-SUFFIX,novproxy.com
+DOMAIN-SUFFIX,okmcode.com
+DOMAIN-SUFFIX,routifyapi.com
+DOMAIN-SUFFIX,supercodes.vip
+DOMAIN-SUFFIX,token-go.click
+DOMAIN-SUFFIX,umapis.com
+DOMAIN-SUFFIX,worldclawpro.ai
+DOMAIN-SUFFIX,zzswitch.com
+
+# 补充 AI 平台与智能体工具 (Supplementary AI Services)
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,openhands.dev

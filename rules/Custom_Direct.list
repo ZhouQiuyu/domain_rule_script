@@ -1,0 +1,17 @@
+# ========================================================
+# 个人直连与内网专网规则 (Custom Direct & Tailscale)
+# 策略组建议: DIRECT
+# 维护仓库: https://github.com/ZhouQiuyu/domain_rule_script
+# ========================================================
+
+# 关键字直连
+DOMAIN-KEYWORD,micu
+
+# Tailscale 专属 MagicDNS 域名直连
+DOMAIN-SUFFIX,ts.net
+
+# Tailscale 专属 IP 网段直连 (CGNAT 100.64.0.0/10)
+IP-CIDR,100.64.0.0/10,no-resolve
+
+# 虚拟局域网内网网段直连
+IP-CIDR,10.10.10.0/24,no-resolve
