@@ -1,0 +1,35 @@
+# ========================================================
+# Bybit 交易所及相关基础设施规则 (Bybit Exchange)
+# 策略组建议: 台湾节点 / 日本节点 / 韩国节点（切勿选香港、新加坡、美国）
+# 维护仓库: https://github.com/ZhouQiuyu/domain_rule_script
+# ========================================================
+
+# 核心主站与全球备用
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+
+# CDN、App 与 API 基础设施
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+
+# 文档与在线客服
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
+
+# 地区合规站
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,bybit.ae
+DOMAIN-SUFFIX,bybit.tr
+DOMAIN-SUFFIX,bybit.kz
+DOMAIN-SUFFIX,bybit.id
+DOMAIN-SUFFIX,bybitgeorgia.ge
